@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
 
     'user.apps.UserConfig',
+    'shelf.apps.ShelfConfig',
 ]
 
 MIDDLEWARE = [
